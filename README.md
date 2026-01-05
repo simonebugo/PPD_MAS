@@ -1,4 +1,5 @@
-# 🗳️ Electoral Dynamics & Polarization 
+# 🗳️ Political Polarization Dynamics in A Multi-Agent System<img width="1162" height="73" alt="image" src="https://github.com/user-attachments/assets/6ae5e23c-9390-4b09-bd6b-79a189619b8a" />
+
 
 An multi agent system developed in **NetLogo** to simulate how social influence, memory decay, and political fragmentation affect voter turnout and polarization.
 
